@@ -1,0 +1,11 @@
+{
+  "version": "0.1.0",
+  "release_date": "2026-10-17",
+  "title": "DocFinder Windows v0.1.0",
+  "changelog": "- Versión inicial de producción con motor de indexación local FTS5.\n- Soporte completo para OCR Tesseract v5.5.0 en español.\n- Extracción documental de PDF, Word, Excel, PowerPoint e Imágenes.\n- Búsqueda aproximada (Fuzzy Search) y directivas inline.\n- Operaciones seguras en dos fases con verificación SHA-256.\n- Guía de usuario integrada y comprobación automática de actualizaciones.",
+  "download_url": "https://github.com/JToro7/DocFinder-Updates/releases/download/v0.1.0/DocFinder-v0.1.0-Windows-x64.zip",
+  "download_name": "DocFinder-v0.1.0-Windows-x64.zip",
+  "download_size_bytes": 118850137,
+  "sha256": "41739414985b59d1e3e00c90c773aa4326a243dc6f37bc9cb7a6c8eeb1dd95ab",
+  "html_url": "https://github.com/JToro7/DocFinder-Updates/releases"
+}
